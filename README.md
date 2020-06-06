@@ -2,8 +2,6 @@
 
 Portfolio of Projects from the Udacity-FSND.
 
-Successor of my first Udacity Nanodegree [Intro to Programming](https://github.com/Thalrion/Udacity-Intro-to-Programming-Nanodegree).
-
 ### Project 1: Booking Site Fy-yur
 
 
@@ -94,6 +92,4 @@ It covers following technical topics in 1 app:
 5. Deployment on `Heroku` (see `setup.sh`)
 
 
-<p align="center">
-  <img src="https://confirm.udacity.com/JHEKUJAN" width="100%">
-</p>
+
